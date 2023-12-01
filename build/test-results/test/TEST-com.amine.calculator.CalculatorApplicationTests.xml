@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amine.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-01T11:30:17" hostname="amine-TECRA-A50-EC" time="1.066">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.amine.calculator.CalculatorApplicationTests" time="1.066"/>
+  <system-out><![CDATA[12:30:13.990 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.amine.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:30:14.237 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.amine.calculator.CalculatorApplication for test class com.amine.calculator.CalculatorApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2023-12-01T12:30:15.169+01:00  INFO 91661 --- [    Test worker] c.a.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.9 with PID 91661 (started by amine in /home/amine/OneDrive/UIC/S9/Integration et deploiement des SI/CommitPipe/Calculator)
+2023-12-01T12:30:15.172+01:00  INFO 91661 --- [    Test worker] c.a.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-12-01T12:30:17.246+01:00  INFO 91661 --- [    Test worker] c.a.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 2.672 seconds (process running for 4.899)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
